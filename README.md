@@ -1,16 +1,15 @@
-### Hi there 👋
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
 
-<!--
-**brettsaunders21/brettsaunders21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Hello :wave: and Welcome, I'm Brett Saunders</h1>
+<h3 align="center">Software Developer, Consutant and Computer Science Graduate from The University of Birmingham with 1st Class Hons</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <em>Explore my repo, getting involved in some of my personal public projects and learn more about me bellow!</em>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr/>
+
+<h2>These are the programming Languages I use...</h2>
+<i class="devicon-java-plain-wordmark"></i>
+
+
