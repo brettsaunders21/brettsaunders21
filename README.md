@@ -1,7 +1,8 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
 
 <h2 align="center">Hello :wave: and Welcome, I'm Brett Saunders</h1>
-<h3 align="center">Software Developer, Consutant and Computer Science Graduate from The University of Birmingham with 1st Class Hons</h3>
+<h3 align="center">Software Developer and Consultant</h3>
+<h3 align="center">Computer Science Graduate from The University of Birmingham with 1st Class Hons</h3>
 
 <p align="center">
   <em>Explore my repo, getting involved in some of my personal public projects and learn more about me bellow!</em>
