@@ -59,7 +59,7 @@
 <br/>
 <hr/>
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>:zap: Recent Public GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#14](https://github.com/CraftoryStudios/Craftory-External/issues/14) in [CraftoryStudios/Craftory-External](https://github.com/CraftoryStudios/Craftory-External)
