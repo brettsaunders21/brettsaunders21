@@ -8,7 +8,7 @@
 
 <hr/>
 
-<h2> Programming Languages:</h2>
+<h2>:desktop_computer: The Main Programming Languages I Use...</h2>
 <p>
 <img align="left" alt="Java" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -19,7 +19,7 @@
 <img align="left" alt="SQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 </p>
 <br/>
-<h2>:wrench: Programming Tools: </h2>
+<h2>:wrench: The Tools I Use When Programming...</h2>
 <p>
 <img align="left" alt="Intellij IDEA" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/intellijidea.svg" />
 <img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -36,11 +36,10 @@
 <hr/>
 
 <h2>My Stats..</h2>
+<p align="center">
 <a href="https://github.com/brettsaunders21">
 <img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=brettsaunders21&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+</p>
 
-<a href="https://github.com/brettsaunders21">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=brettsaunders21&layout=compact&theme=radical" />
-</a>
 
 
