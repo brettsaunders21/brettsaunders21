@@ -8,6 +8,17 @@
 
 <hr/>
 
+### Programming Languages:
+
+[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
+[<img align="left" alt="Node" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
+[<img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
+
+### Programming Tools:
+[<img align="left" alt="Intellij IDEA" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/IntellijIDEA.svg" />]
+
 <h2>My Stats..</h2>
 <a href="https://github.com/brettsaunders21">
 <img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=brettsaunders21&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
