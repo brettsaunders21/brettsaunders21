@@ -59,7 +59,8 @@
 <br/>
 <hr/>
 
-<h2>My Stats..</h2>
+<br/>
+<br/>
 <p align="center">
 <a href="https://github.com/brettsaunders21">
 <img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=brettsaunders21&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
