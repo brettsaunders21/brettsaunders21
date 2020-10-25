@@ -62,6 +62,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#14](https://github.com/CraftoryStudios/Craftory-External/issues/14) in [CraftoryStudios/Craftory-External](https://github.com/CraftoryStudios/Craftory-External)
+2. 🗣 Commented on [#14](https://github.com/CraftoryStudios/Craftory-External/issues/14) in [CraftoryStudios/Craftory-External](https://github.com/CraftoryStudios/Craftory-External)
+3. ❗️ Closed issue [#7](https://github.com/CraftoryStudios/Craftory-External/issues/7) in [CraftoryStudios/Craftory-External](https://github.com/CraftoryStudios/Craftory-External)
+4. 🗣 Commented on [#7](https://github.com/CraftoryStudios/Craftory-External/issues/7) in [CraftoryStudios/Craftory-External](https://github.com/CraftoryStudios/Craftory-External)
+5. 🗣 Commented on [#7](https://github.com/CraftoryStudios/Craftory-External/issues/7) in [CraftoryStudios/Craftory-External](https://github.com/CraftoryStudios/Craftory-External)
 <!--END_SECTION:activity-->
 
 </details>
