@@ -62,11 +62,11 @@
   <summary>:zap: Recent Public GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/refinedmods/sitegen/issues/1) in [refinedmods/sitegen](https://github.com/refinedmods/sitegen)
-2. ❗️ Closed issue [#14](https://github.com/CraftoryStudios/Craftory-External/issues/14) in [CraftoryStudios/Craftory-External](https://github.com/CraftoryStudios/Craftory-External)
-3. 🗣 Commented on [#14](https://github.com/CraftoryStudios/Craftory-External/issues/14) in [CraftoryStudios/Craftory-External](https://github.com/CraftoryStudios/Craftory-External)
-4. ❗️ Closed issue [#7](https://github.com/CraftoryStudios/Craftory-External/issues/7) in [CraftoryStudios/Craftory-External](https://github.com/CraftoryStudios/Craftory-External)
-5. 🗣 Commented on [#7](https://github.com/CraftoryStudios/Craftory-External/issues/7) in [CraftoryStudios/Craftory-External](https://github.com/CraftoryStudios/Craftory-External)
+1. ❗️ Closed issue [#1](https://github.com/refinedmods/sitegen/issues/1) in [refinedmods/sitegen](https://github.com/refinedmods/sitegen)
+2. 🗣 Commented on [#1](https://github.com/refinedmods/sitegen/issues/1) in [refinedmods/sitegen](https://github.com/refinedmods/sitegen)
+3. ❗️ Opened issue [#1](https://github.com/refinedmods/sitegen/issues/1) in [refinedmods/sitegen](https://github.com/refinedmods/sitegen)
+4. ❗️ Closed issue [#14](https://github.com/CraftoryStudios/Craftory-External/issues/14) in [CraftoryStudios/Craftory-External](https://github.com/CraftoryStudios/Craftory-External)
+5. 🗣 Commented on [#14](https://github.com/CraftoryStudios/Craftory-External/issues/14) in [CraftoryStudios/Craftory-External](https://github.com/CraftoryStudios/Craftory-External)
 <!--END_SECTION:activity-->
 
 </details>
