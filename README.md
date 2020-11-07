@@ -62,11 +62,11 @@
   <summary>:zap: Recent Public GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/CraftoryStudios/website/issues/1) in [CraftoryStudios/website](https://github.com/CraftoryStudios/website)
-2. ❗️ Opened issue [#1](https://github.com/CraftoryStudios/website/issues/1) in [CraftoryStudios/website](https://github.com/CraftoryStudios/website)
-3. 🗣 Commented on [#15](https://github.com/CraftoryStudios/Craftory-External/issues/15) in [CraftoryStudios/Craftory-External](https://github.com/CraftoryStudios/Craftory-External)
-4. ❗️ Closed issue [#8](https://github.com/CraftoryStudios/Craftory-External/issues/8) in [CraftoryStudios/Craftory-External](https://github.com/CraftoryStudios/Craftory-External)
-5. 🗣 Commented on [#8](https://github.com/CraftoryStudios/Craftory-External/issues/8) in [CraftoryStudios/Craftory-External](https://github.com/CraftoryStudios/Craftory-External)
+1. 🎉 Merged PR [#1](https://github.com/CraftoryStudios/Craftory-TechResources/pull/1) in [CraftoryStudios/Craftory-TechResources](https://github.com/CraftoryStudios/Craftory-TechResources)
+2. 💪 Opened PR [#1](https://github.com/CraftoryStudios/Craftory-TechResources/pull/1) in [CraftoryStudios/Craftory-TechResources](https://github.com/CraftoryStudios/Craftory-TechResources)
+3. ❗️ Closed issue [#1](https://github.com/CraftoryStudios/website/issues/1) in [CraftoryStudios/website](https://github.com/CraftoryStudios/website)
+4. ❗️ Opened issue [#1](https://github.com/CraftoryStudios/website/issues/1) in [CraftoryStudios/website](https://github.com/CraftoryStudios/website)
+5. 🗣 Commented on [#15](https://github.com/CraftoryStudios/Craftory-External/issues/15) in [CraftoryStudios/Craftory-External](https://github.com/CraftoryStudios/Craftory-External)
 <!--END_SECTION:activity-->
 
 </details>
