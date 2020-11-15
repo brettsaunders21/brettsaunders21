@@ -62,11 +62,11 @@
   <summary>:zap: Recent Public GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1007](https://github.com/dmulloy2/ProtocolLib/issues/1007) in [dmulloy2/ProtocolLib](https://github.com/dmulloy2/ProtocolLib)
-2. 🎉 Merged PR [#1](https://github.com/CraftoryStudios/Craftory-TechResources/pull/1) in [CraftoryStudios/Craftory-TechResources](https://github.com/CraftoryStudios/Craftory-TechResources)
-3. 💪 Opened PR [#1](https://github.com/CraftoryStudios/Craftory-TechResources/pull/1) in [CraftoryStudios/Craftory-TechResources](https://github.com/CraftoryStudios/Craftory-TechResources)
-4. ❗️ Closed issue [#1](https://github.com/CraftoryStudios/website/issues/1) in [CraftoryStudios/website](https://github.com/CraftoryStudios/website)
-5. ❗️ Opened issue [#1](https://github.com/CraftoryStudios/website/issues/1) in [CraftoryStudios/website](https://github.com/CraftoryStudios/website)
+1. 🎉 Merged PR [#8](https://github.com/CraftoryStudios/website/pull/8) in [CraftoryStudios/website](https://github.com/CraftoryStudios/website)
+2. 🎉 Merged PR [#7](https://github.com/CraftoryStudios/website/pull/7) in [CraftoryStudios/website](https://github.com/CraftoryStudios/website)
+3. 🎉 Merged PR [#6](https://github.com/CraftoryStudios/website/pull/6) in [CraftoryStudios/website](https://github.com/CraftoryStudios/website)
+4. 🎉 Merged PR [#5](https://github.com/CraftoryStudios/website/pull/5) in [CraftoryStudios/website](https://github.com/CraftoryStudios/website)
+5. 🎉 Merged PR [#4](https://github.com/CraftoryStudios/website/pull/4) in [CraftoryStudios/website](https://github.com/CraftoryStudios/website)
 <!--END_SECTION:activity-->
 
 </details>
