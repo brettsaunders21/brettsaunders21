@@ -62,11 +62,11 @@
   <summary>:zap: Recent Public GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/CraftoryStudios/DiscordBot/pull/1) in [CraftoryStudios/DiscordBot](https://github.com/CraftoryStudios/DiscordBot)
-2. ❗️ Opened issue [#11](https://github.com/CraftoryStudios/website/issues/11) in [CraftoryStudios/website](https://github.com/CraftoryStudios/website)
-3. 🎉 Merged PR [#10](https://github.com/CraftoryStudios/website/pull/10) in [CraftoryStudios/website](https://github.com/CraftoryStudios/website)
-4. 🎉 Merged PR [#9](https://github.com/CraftoryStudios/website/pull/9) in [CraftoryStudios/website](https://github.com/CraftoryStudios/website)
-5. 🎉 Merged PR [#3](https://github.com/CraftoryStudios/Craftory-TechResources/pull/3) in [CraftoryStudios/Craftory-TechResources](https://github.com/CraftoryStudios/Craftory-TechResources)
+1. 🎉 Merged PR [#14](https://github.com/CraftoryStudios/website/pull/14) in [CraftoryStudios/website](https://github.com/CraftoryStudios/website)
+2. ❗️ Opened issue [#3](https://github.com/CraftoryStudios/DiscordBot/issues/3) in [CraftoryStudios/DiscordBot](https://github.com/CraftoryStudios/DiscordBot)
+3. 🎉 Merged PR [#2](https://github.com/CraftoryStudios/DiscordBot/pull/2) in [CraftoryStudios/DiscordBot](https://github.com/CraftoryStudios/DiscordBot)
+4. 🎉 Merged PR [#12](https://github.com/CraftoryStudios/website/pull/12) in [CraftoryStudios/website](https://github.com/CraftoryStudios/website)
+5. 🎉 Merged PR [#13](https://github.com/CraftoryStudios/website/pull/13) in [CraftoryStudios/website](https://github.com/CraftoryStudios/website)
 <!--END_SECTION:activity-->
 
 </details>
