@@ -62,11 +62,11 @@
   <summary>:zap: Recent Public GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/CraftoryStudios/DiscordBot/pull/5) in [CraftoryStudios/DiscordBot](https://github.com/CraftoryStudios/DiscordBot)
-2. 🗣 Commented on [#5](https://github.com/CraftoryStudios/DiscordBot/issues/5) in [CraftoryStudios/DiscordBot](https://github.com/CraftoryStudios/DiscordBot)
-3. ❗️ Closed issue [#3](https://github.com/CraftoryStudios/DiscordBot/issues/3) in [CraftoryStudios/DiscordBot](https://github.com/CraftoryStudios/DiscordBot)
-4. 🗣 Commented on [#5](https://github.com/CraftoryStudios/DiscordBot/issues/5) in [CraftoryStudios/DiscordBot](https://github.com/CraftoryStudios/DiscordBot)
-5. 🗣 Commented on [#11](https://github.com/CraftoryStudios/website/issues/11) in [CraftoryStudios/website](https://github.com/CraftoryStudios/website)
+1. ❗️ Opened issue [#20](https://github.com/CraftoryStudios/website/issues/20) in [CraftoryStudios/website](https://github.com/CraftoryStudios/website)
+2. 🎉 Merged PR [#19](https://github.com/CraftoryStudios/website/pull/19) in [CraftoryStudios/website](https://github.com/CraftoryStudios/website)
+3. 💪 Opened PR [#19](https://github.com/CraftoryStudios/website/pull/19) in [CraftoryStudios/website](https://github.com/CraftoryStudios/website)
+4. 🎉 Merged PR [#18](https://github.com/CraftoryStudios/website/pull/18) in [CraftoryStudios/website](https://github.com/CraftoryStudios/website)
+5. ❗️ Closed issue [#27](https://github.com/libgdx/libgdx-maven-archetype/issues/27) in [libgdx/libgdx-maven-archetype](https://github.com/libgdx/libgdx-maven-archetype)
 <!--END_SECTION:activity-->
 
 </details>
