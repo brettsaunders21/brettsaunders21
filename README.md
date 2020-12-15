@@ -62,11 +62,11 @@
   <summary>:zap: Recent Public GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#20](https://github.com/CraftoryStudios/website/issues/20) in [CraftoryStudios/website](https://github.com/CraftoryStudios/website)
-2. 🎉 Merged PR [#19](https://github.com/CraftoryStudios/website/pull/19) in [CraftoryStudios/website](https://github.com/CraftoryStudios/website)
-3. 💪 Opened PR [#19](https://github.com/CraftoryStudios/website/pull/19) in [CraftoryStudios/website](https://github.com/CraftoryStudios/website)
-4. 🎉 Merged PR [#18](https://github.com/CraftoryStudios/website/pull/18) in [CraftoryStudios/website](https://github.com/CraftoryStudios/website)
-5. ❗️ Closed issue [#27](https://github.com/libgdx/libgdx-maven-archetype/issues/27) in [libgdx/libgdx-maven-archetype](https://github.com/libgdx/libgdx-maven-archetype)
+1. 🗣 Commented on [#6](https://github.com/CraftoryStudios/DiscordBot/issues/6) in [CraftoryStudios/DiscordBot](https://github.com/CraftoryStudios/DiscordBot)
+2. 🗣 Commented on [#6](https://github.com/CraftoryStudios/DiscordBot/issues/6) in [CraftoryStudios/DiscordBot](https://github.com/CraftoryStudios/DiscordBot)
+3. 🗣 Commented on [#21](https://github.com/CraftoryStudios/Craftory-External/issues/21) in [CraftoryStudios/Craftory-External](https://github.com/CraftoryStudios/Craftory-External)
+4. 🗣 Commented on [#20](https://github.com/CraftoryStudios/Craftory-External/issues/20) in [CraftoryStudios/Craftory-External](https://github.com/CraftoryStudios/Craftory-External)
+5. ❗️ Opened issue [#20](https://github.com/CraftoryStudios/website/issues/20) in [CraftoryStudios/website](https://github.com/CraftoryStudios/website)
 <!--END_SECTION:activity-->
 
 </details>
