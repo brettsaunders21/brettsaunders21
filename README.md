@@ -62,11 +62,11 @@
   <summary>:zap: Recent Public GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/CraftoryStudios/DiscordBot/issues/6) in [CraftoryStudios/DiscordBot](https://github.com/CraftoryStudios/DiscordBot)
-2. 🗣 Commented on [#6](https://github.com/CraftoryStudios/DiscordBot/issues/6) in [CraftoryStudios/DiscordBot](https://github.com/CraftoryStudios/DiscordBot)
-3. 🗣 Commented on [#21](https://github.com/CraftoryStudios/Craftory-External/issues/21) in [CraftoryStudios/Craftory-External](https://github.com/CraftoryStudios/Craftory-External)
-4. 🗣 Commented on [#20](https://github.com/CraftoryStudios/Craftory-External/issues/20) in [CraftoryStudios/Craftory-External](https://github.com/CraftoryStudios/Craftory-External)
-5. ❗️ Opened issue [#20](https://github.com/CraftoryStudios/website/issues/20) in [CraftoryStudios/website](https://github.com/CraftoryStudios/website)
+1. 🗣 Commented on [#21](https://github.com/CraftoryStudios/Craftory-External/issues/21) in [CraftoryStudios/Craftory-External](https://github.com/CraftoryStudios/Craftory-External)
+2. 🗣 Commented on [#21](https://github.com/CraftoryStudios/Craftory-External/issues/21) in [CraftoryStudios/Craftory-External](https://github.com/CraftoryStudios/Craftory-External)
+3. 🗣 Commented on [#6](https://github.com/CraftoryStudios/DiscordBot/issues/6) in [CraftoryStudios/DiscordBot](https://github.com/CraftoryStudios/DiscordBot)
+4. 🗣 Commented on [#6](https://github.com/CraftoryStudios/DiscordBot/issues/6) in [CraftoryStudios/DiscordBot](https://github.com/CraftoryStudios/DiscordBot)
+5. 🗣 Commented on [#21](https://github.com/CraftoryStudios/Craftory-External/issues/21) in [CraftoryStudios/Craftory-External](https://github.com/CraftoryStudios/Craftory-External)
 <!--END_SECTION:activity-->
 
 </details>
