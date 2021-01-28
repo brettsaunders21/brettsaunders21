@@ -62,11 +62,11 @@
   <summary>:zap: Recent Public GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/CraftoryStudios/DiscordBot/pull/13) in [CraftoryStudios/DiscordBot](https://github.com/CraftoryStudios/DiscordBot)
-2. 💪 Opened PR [#13](https://github.com/CraftoryStudios/DiscordBot/pull/13) in [CraftoryStudios/DiscordBot](https://github.com/CraftoryStudios/DiscordBot)
-3. ❗️ Closed issue [#9](https://github.com/CraftoryStudios/DiscordBot/issues/9) in [CraftoryStudios/DiscordBot](https://github.com/CraftoryStudios/DiscordBot)
-4. 🎉 Merged PR [#11](https://github.com/CraftoryStudios/DiscordBot/pull/11) in [CraftoryStudios/DiscordBot](https://github.com/CraftoryStudios/DiscordBot)
-5. 🎉 Merged PR [#12](https://github.com/CraftoryStudios/DiscordBot/pull/12) in [CraftoryStudios/DiscordBot](https://github.com/CraftoryStudios/DiscordBot)
+1. ❗️ Closed issue [#2748](https://github.com/Slimefun/Slimefun4/issues/2748) in [Slimefun/Slimefun4](https://github.com/Slimefun/Slimefun4)
+2. 🗣 Commented on [#2748](https://github.com/Slimefun/Slimefun4/issues/2748) in [Slimefun/Slimefun4](https://github.com/Slimefun/Slimefun4)
+3. 🗣 Commented on [#2771](https://github.com/Slimefun/Slimefun4/issues/2771) in [Slimefun/Slimefun4](https://github.com/Slimefun/Slimefun4)
+4. 🗣 Commented on [#2593](https://github.com/Slimefun/Slimefun4/issues/2593) in [Slimefun/Slimefun4](https://github.com/Slimefun/Slimefun4)
+5. 🎉 Merged PR [#13](https://github.com/CraftoryStudios/DiscordBot/pull/13) in [CraftoryStudios/DiscordBot](https://github.com/CraftoryStudios/DiscordBot)
 <!--END_SECTION:activity-->
 
 </details>
