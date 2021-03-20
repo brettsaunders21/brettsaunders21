@@ -62,11 +62,11 @@
   <summary>:zap: Recent Public GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#17](https://github.com/CraftoryStudios/Craftory-External/issues/17) in [CraftoryStudios/Craftory-External](https://github.com/CraftoryStudios/Craftory-External)
-2. 🗣 Commented on [#17](https://github.com/CraftoryStudios/Craftory-External/issues/17) in [CraftoryStudios/Craftory-External](https://github.com/CraftoryStudios/Craftory-External)
-3. ❗️ Closed issue [#23](https://github.com/CraftoryStudios/Craftory-External/issues/23) in [CraftoryStudios/Craftory-External](https://github.com/CraftoryStudios/Craftory-External)
-4. 🗣 Commented on [#23](https://github.com/CraftoryStudios/Craftory-External/issues/23) in [CraftoryStudios/Craftory-External](https://github.com/CraftoryStudios/Craftory-External)
-5. ❗️ Closed issue [#2748](https://github.com/Slimefun/Slimefun4/issues/2748) in [Slimefun/Slimefun4](https://github.com/Slimefun/Slimefun4)
+1. ❗️ Opened issue [#23](https://github.com/CraftoryStudios/website/issues/23) in [CraftoryStudios/website](https://github.com/CraftoryStudios/website)
+2. ❗️ Opened issue [#22](https://github.com/CraftoryStudios/website/issues/22) in [CraftoryStudios/website](https://github.com/CraftoryStudios/website)
+3. ❗️ Closed issue [#17](https://github.com/CraftoryStudios/Craftory-External/issues/17) in [CraftoryStudios/Craftory-External](https://github.com/CraftoryStudios/Craftory-External)
+4. 🗣 Commented on [#17](https://github.com/CraftoryStudios/Craftory-External/issues/17) in [CraftoryStudios/Craftory-External](https://github.com/CraftoryStudios/Craftory-External)
+5. ❗️ Closed issue [#23](https://github.com/CraftoryStudios/Craftory-External/issues/23) in [CraftoryStudios/Craftory-External](https://github.com/CraftoryStudios/Craftory-External)
 <!--END_SECTION:activity-->
 
 </details>
