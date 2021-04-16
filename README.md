@@ -62,11 +62,11 @@
   <summary>:zap: Recent Public GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#11](https://github.com/CraftoryStudios/website/issues/11) in [CraftoryStudios/website](https://github.com/CraftoryStudios/website)
-2. ❗️ Closed issue [#22](https://github.com/CraftoryStudios/website/issues/22) in [CraftoryStudios/website](https://github.com/CraftoryStudios/website)
-3. ❗️ Closed issue [#23](https://github.com/CraftoryStudios/website/issues/23) in [CraftoryStudios/website](https://github.com/CraftoryStudios/website)
-4. ❗️ Opened issue [#23](https://github.com/CraftoryStudios/website/issues/23) in [CraftoryStudios/website](https://github.com/CraftoryStudios/website)
-5. ❗️ Opened issue [#22](https://github.com/CraftoryStudios/website/issues/22) in [CraftoryStudios/website](https://github.com/CraftoryStudios/website)
+1. 🎉 Merged PR [#24](https://github.com/CraftoryStudios/website/pull/24) in [CraftoryStudios/website](https://github.com/CraftoryStudios/website)
+2. 💪 Opened PR [#24](https://github.com/CraftoryStudios/website/pull/24) in [CraftoryStudios/website](https://github.com/CraftoryStudios/website)
+3. ❗️ Closed issue [#11](https://github.com/CraftoryStudios/website/issues/11) in [CraftoryStudios/website](https://github.com/CraftoryStudios/website)
+4. ❗️ Closed issue [#22](https://github.com/CraftoryStudios/website/issues/22) in [CraftoryStudios/website](https://github.com/CraftoryStudios/website)
+5. ❗️ Closed issue [#23](https://github.com/CraftoryStudios/website/issues/23) in [CraftoryStudios/website](https://github.com/CraftoryStudios/website)
 <!--END_SECTION:activity-->
 
 </details>
