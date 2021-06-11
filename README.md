@@ -62,11 +62,11 @@
   <summary>:zap: Recent Public GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3006](https://github.com/Slimefun/Slimefun4/issues/3006) in [Slimefun/Slimefun4](https://github.com/Slimefun/Slimefun4)
+1. 💪 Opened PR [#174](https://github.com/oraxen/Oraxen/pull/174) in [oraxen/Oraxen](https://github.com/oraxen/Oraxen)
 2. 🗣 Commented on [#3006](https://github.com/Slimefun/Slimefun4/issues/3006) in [Slimefun/Slimefun4](https://github.com/Slimefun/Slimefun4)
-3. 🎉 Merged PR [#26](https://github.com/CraftoryStudios/website/pull/26) in [CraftoryStudios/website](https://github.com/CraftoryStudios/website)
-4. 💪 Opened PR [#26](https://github.com/CraftoryStudios/website/pull/26) in [CraftoryStudios/website](https://github.com/CraftoryStudios/website)
-5. 🎉 Merged PR [#25](https://github.com/CraftoryStudios/website/pull/25) in [CraftoryStudios/website](https://github.com/CraftoryStudios/website)
+3. 🗣 Commented on [#3006](https://github.com/Slimefun/Slimefun4/issues/3006) in [Slimefun/Slimefun4](https://github.com/Slimefun/Slimefun4)
+4. 🎉 Merged PR [#26](https://github.com/CraftoryStudios/website/pull/26) in [CraftoryStudios/website](https://github.com/CraftoryStudios/website)
+5. 💪 Opened PR [#26](https://github.com/CraftoryStudios/website/pull/26) in [CraftoryStudios/website](https://github.com/CraftoryStudios/website)
 <!--END_SECTION:activity-->
 
 </details>
