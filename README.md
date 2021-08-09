@@ -63,10 +63,10 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#7](https://github.com/brettsaunders21/SpigotRelease/issues/7) in [brettsaunders21/SpigotRelease](https://github.com/brettsaunders21/SpigotRelease)
-2. ❗️ Opened issue [#67](https://github.com/CraftoryStudios/Craftory/issues/67) in [CraftoryStudios/Craftory](https://github.com/CraftoryStudios/Craftory)
-3. 🎉 Merged PR [#127](https://github.com/CraftoryStudios/Craftory-Tech/pull/127) in [CraftoryStudios/Craftory-Tech](https://github.com/CraftoryStudios/Craftory-Tech)
-4. 💪 Opened PR [#127](https://github.com/CraftoryStudios/Craftory-Tech/pull/127) in [CraftoryStudios/Craftory-Tech](https://github.com/CraftoryStudios/Craftory-Tech)
-5. 💪 Opened PR [#174](https://github.com/oraxen/Oraxen/pull/174) in [oraxen/Oraxen](https://github.com/oraxen/Oraxen)
+2. 🗣 Commented on [#7](https://github.com/brettsaunders21/SpigotRelease/issues/7) in [brettsaunders21/SpigotRelease](https://github.com/brettsaunders21/SpigotRelease)
+3. ❗️ Opened issue [#67](https://github.com/CraftoryStudios/Craftory/issues/67) in [CraftoryStudios/Craftory](https://github.com/CraftoryStudios/Craftory)
+4. 🎉 Merged PR [#127](https://github.com/CraftoryStudios/Craftory-Tech/pull/127) in [CraftoryStudios/Craftory-Tech](https://github.com/CraftoryStudios/Craftory-Tech)
+5. 💪 Opened PR [#127](https://github.com/CraftoryStudios/Craftory-Tech/pull/127) in [CraftoryStudios/Craftory-Tech](https://github.com/CraftoryStudios/Craftory-Tech)
 <!--END_SECTION:activity-->
 
 </details>
