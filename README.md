@@ -62,11 +62,11 @@
   <summary>:zap: Recent Public GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#69](https://github.com/CraftoryStudios/Craftory/issues/69) in [CraftoryStudios/Craftory](https://github.com/CraftoryStudios/Craftory)
-2. 🎉 Merged PR [#71](https://github.com/CraftoryStudios/Craftory/pull/71) in [CraftoryStudios/Craftory](https://github.com/CraftoryStudios/Craftory)
-3. 🎉 Merged PR [#70](https://github.com/CraftoryStudios/Craftory/pull/70) in [CraftoryStudios/Craftory](https://github.com/CraftoryStudios/Craftory)
-4. ❗️ Closed issue [#7](https://github.com/brettsaunders21/SpigotRelease/issues/7) in [brettsaunders21/SpigotRelease](https://github.com/brettsaunders21/SpigotRelease)
-5. 💪 Opened PR [#71](https://github.com/CraftoryStudios/Craftory/pull/71) in [CraftoryStudios/Craftory](https://github.com/CraftoryStudios/Craftory)
+1. 💪 Opened PR [#74](https://github.com/CraftoryStudios/Craftory/pull/74) in [CraftoryStudios/Craftory](https://github.com/CraftoryStudios/Craftory)
+2. ❌ Closed PR [#73](https://github.com/CraftoryStudios/Craftory/pull/73) in [CraftoryStudios/Craftory](https://github.com/CraftoryStudios/Craftory)
+3. 💪 Opened PR [#73](https://github.com/CraftoryStudios/Craftory/pull/73) in [CraftoryStudios/Craftory](https://github.com/CraftoryStudios/Craftory)
+4. 🗣 Commented on [#69](https://github.com/CraftoryStudios/Craftory/issues/69) in [CraftoryStudios/Craftory](https://github.com/CraftoryStudios/Craftory)
+5. 🎉 Merged PR [#71](https://github.com/CraftoryStudios/Craftory/pull/71) in [CraftoryStudios/Craftory](https://github.com/CraftoryStudios/Craftory)
 <!--END_SECTION:activity-->
 
 </details>
