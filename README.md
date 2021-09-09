@@ -62,11 +62,11 @@
   <summary>:zap: Recent Public GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#74](https://github.com/CraftoryStudios/Craftory/pull/74) in [CraftoryStudios/Craftory](https://github.com/CraftoryStudios/Craftory)
-2. 💪 Opened PR [#74](https://github.com/CraftoryStudios/Craftory/pull/74) in [CraftoryStudios/Craftory](https://github.com/CraftoryStudios/Craftory)
-3. ❌ Closed PR [#73](https://github.com/CraftoryStudios/Craftory/pull/73) in [CraftoryStudios/Craftory](https://github.com/CraftoryStudios/Craftory)
-4. 💪 Opened PR [#73](https://github.com/CraftoryStudios/Craftory/pull/73) in [CraftoryStudios/Craftory](https://github.com/CraftoryStudios/Craftory)
-5. 🗣 Commented on [#69](https://github.com/CraftoryStudios/Craftory/issues/69) in [CraftoryStudios/Craftory](https://github.com/CraftoryStudios/Craftory)
+1. 💪 Opened PR [#133](https://github.com/CraftoryStudios/Craftory-Tech/pull/133) in [CraftoryStudios/Craftory-Tech](https://github.com/CraftoryStudios/Craftory-Tech)
+2. ❗️ Closed issue [#132](https://github.com/CraftoryStudios/Craftory-Tech/issues/132) in [CraftoryStudios/Craftory-Tech](https://github.com/CraftoryStudios/Craftory-Tech)
+3. 🗣 Commented on [#132](https://github.com/CraftoryStudios/Craftory-Tech/issues/132) in [CraftoryStudios/Craftory-Tech](https://github.com/CraftoryStudios/Craftory-Tech)
+4. 🗣 Commented on [#132](https://github.com/CraftoryStudios/Craftory-Tech/issues/132) in [CraftoryStudios/Craftory-Tech](https://github.com/CraftoryStudios/Craftory-Tech)
+5. 🎉 Merged PR [#74](https://github.com/CraftoryStudios/Craftory/pull/74) in [CraftoryStudios/Craftory](https://github.com/CraftoryStudios/Craftory)
 <!--END_SECTION:activity-->
 
 </details>
