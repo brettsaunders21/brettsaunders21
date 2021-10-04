@@ -62,11 +62,11 @@
   <summary>:zap: Recent Public GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#136](https://github.com/CraftoryStudios/Craftory-Tech/pull/136) in [CraftoryStudios/Craftory-Tech](https://github.com/CraftoryStudios/Craftory-Tech)
-2. 💪 Opened PR [#133](https://github.com/CraftoryStudios/Craftory-Tech/pull/133) in [CraftoryStudios/Craftory-Tech](https://github.com/CraftoryStudios/Craftory-Tech)
-3. ❗️ Closed issue [#132](https://github.com/CraftoryStudios/Craftory-Tech/issues/132) in [CraftoryStudios/Craftory-Tech](https://github.com/CraftoryStudios/Craftory-Tech)
-4. 🗣 Commented on [#132](https://github.com/CraftoryStudios/Craftory-Tech/issues/132) in [CraftoryStudios/Craftory-Tech](https://github.com/CraftoryStudios/Craftory-Tech)
-5. 🗣 Commented on [#132](https://github.com/CraftoryStudios/Craftory-Tech/issues/132) in [CraftoryStudios/Craftory-Tech](https://github.com/CraftoryStudios/Craftory-Tech)
+1. 🎉 Merged PR [#141](https://github.com/CraftoryStudios/Craftory-Tech/pull/141) in [CraftoryStudios/Craftory-Tech](https://github.com/CraftoryStudios/Craftory-Tech)
+2. 💪 Opened PR [#141](https://github.com/CraftoryStudios/Craftory-Tech/pull/141) in [CraftoryStudios/Craftory-Tech](https://github.com/CraftoryStudios/Craftory-Tech)
+3. ❌ Closed PR [#125](https://github.com/CraftoryStudios/Craftory-Tech/pull/125) in [CraftoryStudios/Craftory-Tech](https://github.com/CraftoryStudios/Craftory-Tech)
+4. 💪 Opened PR [#140](https://github.com/CraftoryStudios/Craftory-Tech/pull/140) in [CraftoryStudios/Craftory-Tech](https://github.com/CraftoryStudios/Craftory-Tech)
+5. ❗️ Opened issue [#14](https://github.com/BlackBeltPanda/Transport-Pipes/issues/14) in [BlackBeltPanda/Transport-Pipes](https://github.com/BlackBeltPanda/Transport-Pipes)
 <!--END_SECTION:activity-->
 
 </details>
