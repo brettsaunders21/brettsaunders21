@@ -62,11 +62,11 @@
   <summary>:zap: Recent Public GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#145](https://github.com/CraftoryStudios/Craftory-Tech/pull/145) in [CraftoryStudios/Craftory-Tech](https://github.com/CraftoryStudios/Craftory-Tech)
-2. 💪 Opened PR [#145](https://github.com/CraftoryStudios/Craftory-Tech/pull/145) in [CraftoryStudios/Craftory-Tech](https://github.com/CraftoryStudios/Craftory-Tech)
-3. ❌ Closed PR [#144](https://github.com/CraftoryStudios/Craftory-Tech/pull/144) in [CraftoryStudios/Craftory-Tech](https://github.com/CraftoryStudios/Craftory-Tech)
-4. 💪 Opened PR [#144](https://github.com/CraftoryStudios/Craftory-Tech/pull/144) in [CraftoryStudios/Craftory-Tech](https://github.com/CraftoryStudios/Craftory-Tech)
-5. 🎉 Merged PR [#139](https://github.com/CraftoryStudios/Craftory-Tech/pull/139) in [CraftoryStudios/Craftory-Tech](https://github.com/CraftoryStudios/Craftory-Tech)
+1. 🎉 Merged PR [#148](https://github.com/CraftoryStudios/Craftory-Tech/pull/148) in [CraftoryStudios/Craftory-Tech](https://github.com/CraftoryStudios/Craftory-Tech)
+2. ❌ Closed PR [#147](https://github.com/CraftoryStudios/Craftory-Tech/pull/147) in [CraftoryStudios/Craftory-Tech](https://github.com/CraftoryStudios/Craftory-Tech)
+3. 🎉 Merged PR [#149](https://github.com/CraftoryStudios/Craftory-Tech/pull/149) in [CraftoryStudios/Craftory-Tech](https://github.com/CraftoryStudios/Craftory-Tech)
+4. 🎉 Merged PR [#140](https://github.com/CraftoryStudios/Craftory-Tech/pull/140) in [CraftoryStudios/Craftory-Tech](https://github.com/CraftoryStudios/Craftory-Tech)
+5. 🎉 Merged PR [#145](https://github.com/CraftoryStudios/Craftory-Tech/pull/145) in [CraftoryStudios/Craftory-Tech](https://github.com/CraftoryStudios/Craftory-Tech)
 <!--END_SECTION:activity-->
 
 </details>
